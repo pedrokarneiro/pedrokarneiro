@@ -6,6 +6,10 @@
 * 👀 interested in Python, COBOL, Blockchain, Finances, Business Intelligence, Cloud, innovation, old tech modernization, and telecommuting;
 * 📈 looking forward to collaborate on ways to help your business.
 
-Visit my profile at Sololearn: https://www.sololearn.com/profile/2000813
+
+For networking and professional inquiries, you can reach me on:
+
+* LinkedIn: [https://www.linkedin.com/in/pedrocarneirojr/] (Professional profile)
+* GitHub: [https://github.com/pedrokarneiro] (Projects & code)
 
 
