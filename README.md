@@ -10,6 +10,5 @@
 For networking and professional inquiries, you can reach me on:
 
 * [LinkedIn](https://www.linkedin.com/in/pedrocarneirojr/)
-* [GitHub](https://github.com/pedrokarneiro)
 
 
